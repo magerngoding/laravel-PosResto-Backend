@@ -62,7 +62,7 @@ class CategoryController extends Controller
        'name' => 'required',
       // 'image' => 'required|image|mimes:jpeg,jpg,png,gif,svg|max:2048',
    ]);
-
+//
 
     // store the request...
     $category = new Category;
